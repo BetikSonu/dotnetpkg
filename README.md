@@ -2,7 +2,7 @@
 ## .Net Core 3.1 Linux Uygulamaları için Paketleyici
 
 ## Kullanıcılara Dotnet Installer ile Birlikte Uygulamanızı Dağıtın
-
+![Ekran Görüntüsü](media/screenshot.png)
 
 ### Destekledikleri:
 #### .NET CORE 3.1 Linux Derlemelerini Destekler
